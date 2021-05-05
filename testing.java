@@ -1,5 +1,5 @@
-Testing the integration of Jenkins with GitHub
-
-Blablabla
-
-Yadiyadadada
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
